@@ -3,7 +3,6 @@ class Building {
     escalators() {
         console.log('The escalators is moving');
     }
-
 }
 
 // const building = new Building;
